@@ -97,18 +97,18 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(12, 158);
+            label2.Location = new Point(5, 54);
             label2.Name = "label2";
             label2.Size = new Size(295, 75);
             label2.TabIndex = 6;
-            label2.Text = "Instructions:\r\n1. Get the regular USB (USB A) Yubikey from my wallet.\r\n2. Plug it into the computer\r\n3. Select the EOL-encrypted.eol file using the ... button\r\n4. Press Decrypt\r\n";
+            label2.Text = "Instructions:\r\n1. Get the regular USB (USB A) Yubikey from my wallet.\r\n2. Plug it into the computer.\r\n3. Select the .eol file using the ... button\r\n4. Press Decrypt\r\n";
             label2.Click += label2_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(486, 265);
+            ClientSize = new Size(421, 159);
             Controls.Add(label2);
             Controls.Add(button3);
             Controls.Add(textBoxpath);
