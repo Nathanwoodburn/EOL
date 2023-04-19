@@ -15,3 +15,6 @@ Hence the name EOL (End Of Life). An example file can be found on this repo http
 3. Run the program and open the file you wish to encrypt.
 4. The program will encrypt the file and save it to the same directory with the same name but with a .eol extension.
 5. To decrypt the file, open the file with the .eol extension and the program will decrypt it and save it to the same directory with the same name but with the .eol extension removed.
+
+
+[Example Video](EOL%20Encrypter.mp4)
